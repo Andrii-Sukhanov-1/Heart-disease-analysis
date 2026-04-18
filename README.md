@@ -1,3 +1,19 @@
 # Heart-disease-analysis
-My project for learning ML. Predicts level of heart disease based to multiple features. Includes data preprocessing, train-test split, scaling, building logistic regression, evaluating results via metrics, confusion matrix and auc-roc curve.
-Dataset (heart_disease_uci) was taken from https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data/data
+My project for learning Machine Learning in Python. It predicts the level of heart disease based on multiple features.
+
+Description
+
+This project includes the following steps:
+
+• Data preprocessing
+• Train-test split
+• Feature scaling
+• Building a Logistic Regression model
+• Model evaluation using metrics
+• Confusion matrix analysis
+• AUC-ROC curve evaluation
+
+Dataset
+
+The dataset (heart_disease_uci) was taken from Kaggle:
+https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data/data
